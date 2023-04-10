@@ -1,0 +1,44 @@
+DEPARTMENTS:
+Department1
+Department2
+Department3
+Department4
+Department5
+-----------
+Department1:
+RG1 RG101 RG102 RG103 RG104 RG105
+RG2 RG201 RG202 RG203 RG204 RG205
+RG3 RG101 RG102 RG103 RG104 RG105
+RG4 RG101 RG102 RG103 RG104 RG105
+RG5 RG101 RG102 RG103 RG104 RG105
+RL1 RL101 RL102 RL103
+RL2 RL201 RL201 RL201
+RL3 RL301
+-----------
+Department2:
+RG1
+RG2
+RG3
+RL1
+RL2
+-----------
+Department3:
+RG1
+RG2
+RG3
+RL1
+-----------
+Department4:
+RG1
+RG2
+RL1
+RL2
+-----------
+Department5:
+RG1
+RG2
+RG3
+RG4
+-----------
+
+
